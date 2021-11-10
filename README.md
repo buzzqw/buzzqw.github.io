@@ -11,7 +11,7 @@ Purtroppo anche DBS ha ricevuto critiche pensati per la parte di magia, non per 
 
 E allora e' nato OBSS https://github.com/buzzqw/TUS/tree/master/OBSS , dove la magia e' a Spell Point ma comunque ha quel quid che la rende piu' avvincente.
 
-**OBSS e' il sistema attualmente sviluppato e giocato, TUS e DBS vengono lasciati per coerenza storica.
+**OBSS (Old Bell School System) e' il sistema attualmente sviluppato e giocato, TUS e DBS vengono lasciati per coerenza storica.
 Entrate nella cartella OBSS https://github.com/buzzqw/TUS/tree/master/OBSS e scaricate il PDF del manuale e della scheda!**
 
 OBSS viene fornito in file sorgente in formato TEX e compilato in PDF.
